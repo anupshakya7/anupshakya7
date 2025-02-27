@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WorldVision](https://projects.krizmatic.com.au/worldvision/maps-graphs/)
 
-- 🌱 I’m currently learning **new web development frameworks like Node.js, Vue.js, and React.js, as well as tools like Docker, to improve my skills in building modern and efficient web applications.**
+- 🌱 I’m currently learning **new web development frameworks like Laravel, Node.js, Vue.js, and React.js, as well as tools like Docker, to improve my skills in building modern and efficient web applications.**
 
 - 👯 I’m looking to collaborate on **creating web applications that are easy to use, work smoothly, and solve real problems with the latest technologies.**
 
