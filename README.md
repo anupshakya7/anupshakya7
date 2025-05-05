@@ -17,7 +17,7 @@
 
 - 📫 How to reach me through email **anupshk39@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://anup-shakya.com.np/public/storage/settings/April2025/SXcc8hgRrDRDjDP2D3Nj.pdf))
+- 📄 Know about my experiences [Resume](https://anup-shakya.com.np/public/storage/settings/April2025/SXcc8hgRrDRDjDP2D3Nj.pdf)
 
 <h1 align="center">Connect with me:</h1>
 <p align="left">
