@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anup Shakya</h1>
 <h3 align="left">A skilled and passionate full-stack developer from Nepal, specializing in both frontend and backend technologies to build dynamic and efficient web applications.</h3>
 
-- 🔭 I’m currently working on [WorldVision](https://projects.krizmatic.com.au/worldvision/maps-graphs/)
+- 🔭 I’m currently working on [WorldVision](https://projects.krizmatic.com.au/globaldata/)
 
 - 🌱 I’m currently learning **new web development frameworks like Laravel, Node.js, Vue.js, and React.js, as well as tools like Docker, to improve my skills in building modern and efficient web applications.**
 
